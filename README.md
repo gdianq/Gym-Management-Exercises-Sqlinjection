@@ -10,7 +10,7 @@ The injection point is in Exercises module
 ![image](https://user-images.githubusercontent.com/81155906/183283180-e4ae8794-c141-476c-87e3-865774ec96a0.png)
 
 
-···
+
 ---
 Parameter: exer (GET)
     Type: error-based
@@ -24,7 +24,7 @@ Parameter: exer (GET)
 [16:52:27] [INFO] the back-end DBMS is MySQL
 web application technology: Apache 2.4.39, PHP, PHP 7.3.4
 back-end DBMS: MySQL >= 5.0
-···
+
 
 
 ## Code Download
